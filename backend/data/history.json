@@ -1,0 +1,542 @@
+[
+  {
+    "_id": "1777922908527",
+    "userId": "1777922843827",
+    "question": "wattpad",
+    "slides": [
+      {
+        "title": "What is Wattpad?",
+        "content": "Wattpad is a social media platform where users can create and share their own stories, poems, and other forms of creative writing. It's a place where writers can get feedback and support from a large community of readers. Users can browse and read stories in various genres, from romance to science fiction."
+      },
+      {
+        "title": "How Does Wattpad Work?",
+        "content": "Users can create an account on Wattpad and start writing their own stories. They can choose to make their work public, so others can read it, or keep it private for personal use. Wattpad also allows users to engage with each other through comments and votes on stories."
+      },
+      {
+        "title": "Features of Wattpad",
+        "content": "Wattpad has several features that make it a popular platform for writers, including a vast library of user-generated content, a community of readers and writers, and tools for formatting and editing stories. Users can also join groups based on their interests and engage with other writers in those groups. Wattpad also has a mobile app for easy access on-the-go."
+      },
+      {
+        "title": "Benefits of Writing on Wattpad",
+        "content": "Writing on Wattpad can be a great way to develop your writing skills, get feedback from others, and build a community of fans. It's also a platform where you can experiment with different styles and genres without fear of criticism. Many users have even gone on to publish their work in traditional book form after gaining a following on Wattpad."
+      },
+      {
+        "title": "Safety and Guidelines on Wattpad",
+        "content": "Wattpad has guidelines and rules in place to ensure a safe and respectful community for all users. Users are expected to follow these guidelines, which include rules against harassment, bullying, and explicit content. Parents and guardians can also take steps to monitor their child's activity on the platform and set boundaries for online safety."
+      }
+    ],
+    "createdAt": "2026-05-04T19:28:28.527Z"
+  },
+  {
+    "_id": "1777922945764",
+    "userId": "1777922843827",
+    "question": "Explain DNA replication",
+    "slides": [
+      {
+        "title": "What is DNA Replication?",
+        "content": "DNA replication is the process by which a cell makes an exact copy of its DNA before cell division. This process is crucial for the transmission of genetic information from one generation of cells to the next. It's like making a photocopy of a blueprint."
+      },
+      {
+        "title": "The Replication Process",
+        "content": "DNA replication starts with the unwinding of the double helix structure of DNA, exposing the genetic material. An enzyme called helicase unwinds the DNA, while another enzyme called primase adds short RNA sequences to the template strands. These RNA sequences serve as a starting point for DNA synthesis."
+      },
+      {
+        "title": "Building the New DNA Strand",
+        "content": "An enzyme called DNA polymerase reads the template strands and matches the incoming nucleotides to the base pairing rules (A-T and G-C). It then adds the correct nucleotides to the growing DNA strand, forming a complementary copy of the original DNA sequence. This process is like building with LEGO blocks, where each block is a nucleotide."
+      },
+      {
+        "title": "Proofreading and Editing",
+        "content": "As the new DNA strand is being built, an enzyme called proofreading checks for errors and corrects any mistakes. This ensures that the new DNA strand is an exact copy of the original DNA sequence. This process is like reviewing a draft of a document to catch any typos or errors."
+      },
+      {
+        "title": "The Final Result",
+        "content": "After DNA replication is complete, each parent DNA molecule has been converted into two identical daughter DNA molecules. These daughter molecules are exact copies of the original DNA sequence, containing the same genetic information. This process is essential for the transmission of genetic traits from one generation to the next."
+      }
+    ],
+    "createdAt": "2026-05-04T19:29:05.764Z"
+  },
+  {
+    "_id": "1777922981529",
+    "userId": "1777922843827",
+    "question": "Explain recursion",
+    "slides": [
+      {
+        "title": "What is Recursion?",
+        "content": "Recursion is a problem-solving technique where a function calls itself to solve a problem. This allows us to break down complex problems into smaller, more manageable pieces. It's like a Russian nesting doll, where a function calls itself inside itself."
+      },
+      {
+        "title": "How Recursion Works",
+        "content": "When a function calls itself, it passes a value or a set of values to the new instance of the function. This new instance then solves the problem using the same logic, but with the new values. Eventually, the function will reach a base case where it stops calling itself."
+      },
+      {
+        "title": "Example of Recursion",
+        "content": "A classic example of recursion is a factorial function, which calculates the product of all positive integers up to a given number. For example, the factorial of 5 (5!) would be calculated as 5*4*3*2*1. This function would call itself to calculate the factorial of smaller numbers until it reaches the base case of 1."
+      },
+      {
+        "title": "Benefits of Recursion",
+        "content": "Recursion can make code more concise and easier to understand, especially for problems with a recursive structure. It can also handle complex problems that are difficult to solve using loops. However, it can also be less efficient than iteration for large inputs."
+      },
+      {
+        "title": "Common Pitfalls of Recursion",
+        "content": "One common pitfall of recursion is stack overflow errors, which occur when the function calls itself too many times and the system runs out of memory. Another pitfall is infinite recursion, where the function calls itself without a base case, causing it to loop indefinitely."
+      }
+    ],
+    "createdAt": "2026-05-04T19:29:41.529Z"
+  },
+  {
+    "_id": "1777923686345",
+    "userId": "1777922843827",
+    "question": "What is machine learning?",
+    "slides": [
+      {
+        "title": "What is Machine Learning?",
+        "content": "Machine learning is a type of artificial intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed. It's like a student learning from experience and getting better over time. Machine learning algorithms are designed to analyze patterns and relationships in data."
+      },
+      {
+        "title": "How Does Machine Learning Work?",
+        "content": "Machine learning works by training algorithms on large datasets, which helps them learn to recognize patterns and make predictions. The algorithm is given examples of input and output, and it tries to find the relationship between them. This process is called training the model."
+      },
+      {
+        "title": "Types of Machine Learning",
+        "content": "There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning is when the algorithm is given labeled data to learn from. Unsupervised learning is when the algorithm is given unlabeled data and must find patterns on its own."
+      },
+      {
+        "title": "Applications of Machine Learning",
+        "content": "Machine learning has many real-world applications, such as image recognition, natural language processing, and predictive analytics. It's used in self-driving cars, virtual assistants, and recommendation systems. Machine learning helps make these systems more accurate and efficient."
+      },
+      {
+        "title": "Benefits of Machine Learning",
+        "content": "Machine learning offers many benefits, including improved accuracy, efficiency, and scalability. It helps automate tasks, reduces manual labor, and enables businesses to make informed decisions. Machine learning also has the potential to solve complex problems and improve lives."
+      }
+    ],
+    "createdAt": "2026-05-04T19:41:26.345Z"
+  },
+  {
+    "_id": "1777923995708",
+    "userId": "1777922843827",
+    "question": "Write a React login form component with email and password fields",
+    "slides": [
+      {
+        "title": "Slide 1: Introduction to React Login Form",
+        "content": "A React login form component is used to handle user authentication by collecting email and password information. This component will be used to submit a login request to the server. We will create this component step by step."
+      },
+      {
+        "title": "Slide 2: Setting Up the Component",
+        "content": "To start, we create a new React functional component called Login. We will use the useState hook to store the email and password values. This will allow us to update the values as the user types in the fields."
+      },
+      {
+        "title": "Slide 3: Creating Email and Password Fields",
+        "content": "Next, we add the email and password fields to our component. We use HTML input elements to create these fields and the useState hook to store the values. We will also add a submit button to send the login request."
+      },
+      {
+        "title": "Slide 4: Handling Form Submission",
+        "content": "When the user submits the form, we will send a request to the server to authenticate the user. We can use the useEffect hook to handle this request. This will allow us to update the component state based on the server response."
+      },
+      {
+        "title": "Slide 5: Displaying Error Messages",
+        "content": "Finally, we will add error messages to display any login errors to the user. We can use the useState hook to store the error message and display it below the fields. This will help users understand why their login attempt failed."
+      }
+    ],
+    "createdAt": "2026-05-04T19:46:35.708Z"
+  },
+  {
+    "_id": "1777924086756",
+    "userId": "1777922843827",
+    "question": "Write a React login form component with email and password fields\ncode in reactjs",
+    "slides": [
+      {
+        "title": "Step 1: Setting Up the Component",
+        "content": "Create a new React component file called Login.js. This file will contain the JSX code for our login form."
+      },
+      {
+        "title": "Step 2: Importing Necessary Libraries",
+        "content": "At the top of the Login.js file, import the necessary libraries, including React and the useState hook from the react hook library."
+      },
+      {
+        "title": "Step 3: Defining the State Variables",
+        "content": "Use the useState hook to define two state variables: one for the email and one for the password, both initialized as empty strings."
+      },
+      {
+        "title": "Step 4: Creating the Form Fields",
+        "content": "Inside the component, create two input fields, one for the email and one for the password, and use the state variables to bind the input values."
+      },
+      {
+        "title": "Step 5: Styling the Component",
+        "content": "Add basic CSS styles to the component to make it visually appealing and user-friendly, including labels, input fields, and a submit button."
+      }
+    ],
+    "createdAt": "2026-05-04T19:48:06.756Z"
+  },
+  {
+    "_id": "1777924170746",
+    "userId": "1777922843827",
+    "question": "Write a React login form component with email and password fields\ncode in react.\ni need reactjs code written along with this information",
+    "slides": [
+      {
+        "title": "Introduction to React Login Form",
+        "content": "In this tutorial, we will create a simple React login form with email and password fields. This form will validate the user's input and display an error message if the input is invalid. We will use React hooks to manage the form state and functionality."
+      },
+      {
+        "title": "Setting Up the React Project",
+        "content": "To start, create a new React project using your preferred method. Install the necessary dependencies, including React and a CSS framework like Bootstrap or Tailwind CSS. This will help us style our form with a visually appealing layout."
+      },
+      {
+        "title": "Creating the Login Form Component",
+        "content": "Create a new JavaScript file called `LoginForm.js` and import the necessary dependencies, including React and the CSS framework. Define a functional component called `LoginForm` and use JSX to render the form HTML."
+      },
+      {
+        "title": "Implementing Form Validation",
+        "content": "Use the `useState` hook to manage the form state, including the email and password fields. Create a function to validate the form input and display an error message if the input is invalid. Use the `useEffect` hook to update the form state when the user submits the form."
+      },
+      {
+        "title": "Rendering the Login Form",
+        "content": "Finally, render the `LoginForm` component in your React application and use the form state to display the user's input and error messages. Use a CSS framework to style the form and make it visually appealing. With this code, you can create a simple and functional React login form with email and password fields."
+      }
+    ],
+    "createdAt": "2026-05-04T19:49:30.747Z"
+  },
+  {
+    "_id": "1777992337494",
+    "userId": "1777922843827",
+    "question": "What is machine learning?",
+    "slides": [
+      {
+        "title": "What is Machine Learning?",
+        "content": "Machine learning is a type of artificial intelligence that allows computers to learn from data and improve their performance over time. It's like how a child learns from experience and becomes better at tasks. Machines use algorithms to analyze data and make predictions or decisions."
+      },
+      {
+        "title": "How Does Machine Learning Work?",
+        "content": "Machine learning works by feeding a computer large amounts of data, which it then uses to train an algorithm. The algorithm learns patterns and relationships within the data, allowing it to make accurate predictions or decisions. The more data the computer is trained on, the better it becomes at its task."
+      },
+      {
+        "title": "Types of Machine Learning",
+        "content": "There are three main types of machine learning: supervised, unsupervised, and reinforcement learning. Supervised learning involves training the algorithm on labeled data, while unsupervised learning involves discovering hidden patterns in unlabeled data. Reinforcement learning involves training the algorithm through trial and error."
+      },
+      {
+        "title": "Applications of Machine Learning",
+        "content": "Machine learning has many real-world applications, including image recognition, natural language processing, and predictive analytics. It's used in self-driving cars, virtual assistants, and personalized recommendations. Machine learning also helps businesses make data-driven decisions."
+      },
+      {
+        "title": "Benefits of Machine Learning",
+        "content": "The benefits of machine learning include increased efficiency, accuracy, and speed. Machines can process large amounts of data much faster and more accurately than humans. Machine learning also helps businesses stay competitive in a rapidly changing market."
+      }
+    ],
+    "createdAt": "2026-05-05T14:45:37.494Z"
+  },
+  {
+    "_id": "1777992860481",
+    "userId": "1777922843827",
+    "question": "Solve 2x + 5 = 17 step-by-step",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "Please go ahead and ask your question. I'll do my best to provide a clear and step-by-step solution or working code example."
+      }
+    ],
+    "createdAt": "2026-05-05T14:54:20.481Z"
+  },
+  {
+    "_id": "1777992868757",
+    "userId": "1777922843827",
+    "question": "Solve 2x + 5 = 17 step-by-step",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "I'm Clario, your friendly AI tutor and code-generation assistant. What's your question?"
+      }
+    ],
+    "createdAt": "2026-05-05T14:54:28.757Z"
+  },
+  {
+    "_id": "1777992883895",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "Please go ahead and ask your question. I'll do my best to provide a clear and step-by-step solution. \n\n(Note: I'm ready when you are. Just type away!)"
+      }
+    ],
+    "createdAt": "2026-05-05T14:54:43.895Z"
+  },
+  {
+    "_id": "1777992899969",
+    "userId": "1777922843827",
+    "question": "What is a binary search tree?",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "I'm ready to help. Please go ahead and ask your question."
+      }
+    ],
+    "createdAt": "2026-05-05T14:54:59.969Z"
+  },
+  {
+    "_id": "1777993230831",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \"title\": \"Sorting an Array in Python with Built-in Functions\", \"content\": \"You can use the built-in `sorted()` function in Python to sort an array. Here's an example:\\n\\n```python\\n# Define an array\narr = [64, 34, 25, 12, 22, 11, 90]\n\n# Sort the array\nsorted_arr = sorted(arr)\n\n# Print the sorted array\nprint(sorted_arr)\n```\n\nOutput:\n```\n[11, 12, 22, 25, 34, 64, 90]\n```\n\"},\n  { \"title\": \"Sorting an Array in Python with Custom Implementation\", \"content\": \"If you want to implement a custom sorting algorithm, you can use the `quick_sort()` function below:\\n\\n```python\ndef quick_sort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quick_sort(left) + middle + quick_sort(right)\n\n# Define an array\narr = [64, 34, 25, 12, 22, 11, 90]\n\n# Sort the array\nsorted_arr = quick_sort(arr)\n\n# Print the sorted array\nprint(sorted_arr)\n```\n\nOutput:\n```\n[11, 12, 22, 25, 34, 64, 90]\n```\n\"},\n  { \"title\": \"Bubble Sort Implementation in Python\", \"content\": \"Here's an example of a bubble sort implementation in Python:\\n\\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr\n\n# Define an array\narr = [64, 34, 25, 12, 22, 11, 90]\n\n# Sort the array\nsorted_arr = bubble_sort(arr)\n\n# Print the sorted array\nprint(sorted_arr)\n```\n\nOutput:\n```\n[11, 12, 22, 25, 34, 64, 90]\n```\n\"}"
+      }
+    ],
+    "createdAt": "2026-05-05T15:00:30.831Z"
+  },
+  {
+    "_id": "1777993276073",
+    "userId": "1777922843827",
+    "question": "What is a binary search tree?",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \n    \"title\": \"What is a Binary Search Tree?\",\n    \"content\": \"A binary search tree (BST) is a data structure in which each node has at most two children (i.e., left child and right child). Each node represents a value, and the left child of a node contains values less than the node's value, while the right child contains values greater than the node's value. This ordering property makes BSTs useful for searching, inserting, and deleting nodes efficiently.\"\n  },\n  { \n    \"title\": \"Properties of a Binary Search Tree\",\n    \"content\": \"A valid BST must satisfy the following properties:\n\n* For every node, all elements in the left subtree are less than the node's value.\n* For every node, all elements in the right subtree are greater than the node's value.\n* The left and right subtrees of every node must also be BSTs.\n```markdown\n           4\n       /     \\\n      2       6\n     / \\     / \\\n    1   3   5   7\n```\nThis is an example of a valid BST.\"\n  },\n  { \n    \"title\": \"Example Use Cases\",\n    \"content\": \"Binary search trees are commonly used in various applications, such as:\n\n* Database indexing: BSTs can be used to efficiently store and retrieve data from a database.\n* File systems: BSTs can be used to manage the organization of files on a hard drive.\n* Compilers: BSTs can be used to optimize code generation and parsing.\n```markdown\nimport Node from './Node';\n\nclass BinarySearchTree {\n  constructor() {\n    this.root = null;\n  }\n\n  insert(value) {\n    // ...\n  }\n\n  search(value) {\n    // ...\n  }\n}\n```\nThis is an example of a basic BST implementation in JavaScript.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:01:16.073Z"
+  },
+  {
+    "_id": "1777993312255",
+    "userId": "1777922843827",
+    "question": "java palindrome using string",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \n    \"title\": \"Java Palindrome Using String\",\n    \"content\": \"A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization). Here's an example of a Java function that checks if a given string is a palindrome.\"\n  },\n  { \n    \"title\": \"Palindrome Check Function\",\n    \"content\": \"\n```java\npublic class Palindrome {\n    public static boolean isPalindrome(String str) {\n        // Remove spaces and convert to lowercase\n        str = str.replaceAll(\"\\\\s+\", \"\").toLowerCase();\n        \n        // Compare the string with its reverse\n        String reversed = new StringBuilder(str).reverse().toString();\n        return str.equals(reversed);\n    }\n\n    public static void main(String[] args) {\n        System.out.println(isPalindrome(\"Madam\"));  // True\n        System.out.println(isPalindrome(\"Hello\"));  // False\n    }\n}\n```\n\"\n  },\n  { \n    \"title\": \"Explanation\",\n    \"content\": \"In this example, we use the `replaceAll` method to remove spaces from the input string and convert it to lowercase. We then create a `StringBuilder` object to reverse the string, and compare the original string with its reverse using the `equals` method.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:01:52.255Z"
+  },
+  {
+    "_id": "1777993347201",
+    "userId": "1777922843827",
+    "question": "Write a React login form component",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  {\n    \"title\": \"Login Form Component\",\n    \"content\": \"To create a login form component in React, we can use the following code. This code includes basic form validation and submission handling.\"\n  },\n  {\n    \"title\": \"LoginForm.js\",\n    \"content\": ```\nimport React, { useState } from 'react';\n\nfunction LoginForm() {\n  const [email, setEmail] = useState('');\n  const [password, setPassword] = useState('');\n  const [error, setError] = useState(null);\n  const [loading, setLoading] = useState(false);\n\n  const handleSubmit = (event) => {\n    event.preventDefault();\n    if (email && password) {\n      // API call to handle login\n      setLoading(true);\n      // setTimeout(() => {\n      //   console.log('Login successful');\n      //   setLoading(false);\n      // }, 2000);\n      setError(null);\n    } else {\n      setError('Please fill in both email and password');\n    }\n  };\n\n  return (\n    <div>\n      <h2>Login Form</h2>\n      <form onSubmit={handleSubmit}>\n        <label>\n          Email:\n          <input\n            type=\"email\"\n            value={email}\n            onChange={(event) => setEmail(event.target.value)}\n            required\n          />\n        </label>\n        <br />\n        <label>\n          Password:\n          <input\n            type=\"password\"\n            value={password}\n            onChange={(event) => setPassword(event.target.value)}\n            required\n          />\n        </label>\n        <br />\n        <button type=\"submit\" disabled={loading}>\n          {loading ? 'Logging in...' : 'Login'}\n        </button>\n        {error && <p style={{ color: 'red' }}>{error}</p>}\n      </form>\n    </div>\n  );\n}\n\nexport default LoginForm;\n``` }\n  ],\n  {\n    \"title\": \"Example Use Case\",\n    \"content\": \"To use this login form component in your React app, import it in your main component and render it.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:02:27.201Z"
+  },
+  {
+    "_id": "1777993425979",
+    "userId": "1777922843827",
+    "question": "Explain Newton's laws with examples",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \"title\": \"Newton's First Law: Law of Inertia\", \n    \"content\": \"This law states that an object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force. An example is a car moving on a straight road. **No force = no change in velocity**```markdown\n# Car Moving on a Straight Road\n\n* Initial velocity: 60 km/h\n* No external forces acting on the car (no friction, no braking)\n* Final velocity: 60 km/h\n```\" },\n  { \"title\": \"Newton's Second Law: Force and Acceleration\", \n    \"content\": \"This law states that the force applied to an object is equal to the mass of the object multiplied by its acceleration. The formula is F = ma. An example is a car accelerating from rest to 60 km/h in 10 seconds. **F = ma**```markdown\n# Car Accelerating from Rest\n\n* Mass of the car: 1500 kg\n* Acceleration: 6 m/s^2\n* Force applied: F = 1500 kg x 6 m/s^2 = 9000 N\n```\" },\n  { \"title\": \"Newton's Third Law: Action and Reaction\", \n    \"content\": \"This law states that for every action, there is an equal and opposite reaction. An example is a person kicking a ball. **Action and reaction forces are equal and opposite**```markdown\n# Person Kicking a Ball\n\n* Force exerted by the person on the ball: 100 N\n* Force exerted by the ball on the person: -100 N (equal and opposite reaction)\n```\" },\n  { \"title\": \"Examples of Newton's Laws in Real-Life Situations\", \n    \"content\": \"Newton's laws are applied in various fields such as physics, engineering, and everyday life. They help us understand how objects move and respond to forces. Examples include the motion of planets, the design of roller coasters, and the braking system of cars.\" }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:03:45.979Z"
+  },
+  {
+    "_id": "1777993933659",
+    "userId": "1777922843827",
+    "question": "Explain Newton's laws with examples",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  {\n    \"title\": \"Newton's First Law of Motion (Inertia)\",\n    \"content\": \"An object at rest remains at rest, and an object in motion remains in motion, unless acted upon by an external force. This law is also known as the law of inertia.\n\n    **Example:**\n    ```markdown\nA car is traveling at a constant speed of 60 km/h on a straight road. If there are no external forces acting on it, the car will continue to travel at the same speed.\n```\n  },\n  {\n    \"title\": \"Newton's Second Law of Motion (Force and Acceleration)\",\n    \"content\": \"The force applied to an object is equal to its mass multiplied by its acceleration. This law is often expressed mathematically as F = ma.\n\n    **Example:**\n    ```markdown\nA 2 kg box is being pulled across a floor with a force of 10 N. If the box accelerates at 2 m/s^2, what is the force required to pull the box at 5 m/s^2?\nF1 = ma = 2 kg * 2 m/s^2 = 4 N\nF2 = ma = 2 kg * 5 m/s^2 = 10 N\n```\n  },\n  {\n    \"title\": \"Newton's Third Law of Motion (Action and Reaction)\",\n    \"content\": \"For every action, there is an equal and opposite reaction. This law applies to all interactions between objects.\n\n    **Example:**\n    ```markdown\nA baseball player throws a ball to a teammate. The force exerted by the player on the ball (action) is equal and opposite to the force exerted by the ball on the player's hand (reaction).\n```\n  },\n  {\n    \"title\": \"Conclusion\",\n    \"content\": \"Newton's laws of motion provide a fundamental understanding of how objects respond to forces and motion. These laws are essential in fields such as physics, engineering, and mechanics.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:12:13.659Z"
+  },
+  {
+    "_id": "1777993956055",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \n    \"title\": \"Bubble Sort Algorithm\",\n    \"content\": \"### Bubble Sort Algorithm\nBubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.\n\n#### Python Code\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n-1):\n        for j in range(n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\n# Example usage\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(\"Original array:\", arr)\nprint(\"Sorted array:\", bubble_sort(arr))\n```\n  },\n  { \n    \"title\": \"Selection Sort Algorithm\",\n    \"content\": \"### Selection Sort Algorithm\nSelection sort is a simple sorting algorithm that works by repeatedly finding the minimum element from the unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array:\n\n1. The subarray which is already sorted.\n2. Remaining subarray which is unsorted.\n\n#### Python Code\n```python\ndef selection_sort(arr):\n    n = len(arr)\n    for i in range(n-1):\n        min_idx = i\n        for j in range(i+1, n):\n            if arr[j] < arr[min_idx]:\n                min_idx = j\n        arr[i], arr[min_idx] = arr[min_idx], arr[i]\n    return arr\n\n# Example usage\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(\"Original array:\", arr)\nprint(\"Sorted array:\", selection_sort(arr))\n```\n  },\n  { \n    \"title\": \"Quick Sort Algorithm\",\n    \"content\": \"### Quick Sort Algorithm\nQuick sort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then recursively sorted.\n\n#### Python Code\n```python\ndef quick_sort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quick_sort(left) + middle + quick_sort(right)\n\n# Example usage\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(\"Original array:\", arr)\nprint(\"Sorted array:\", quick_sort(arr))\n```\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:12:36.055Z"
+  },
+  {
+    "_id": "1777994043256",
+    "userId": "1777922843827",
+    "question": "rome",
+    "slides": [
+      {
+        "title": "Roman Empire",
+        "content": "The Roman Empire was a vast and powerful state that existed from 27 BC to 476 AD. It was one of the greatest empires in human history, spanning across three continents and leaving a lasting legacy in law, architecture, and governance.\n\n### Key Dates\n\n* 27 BC: The Roman Empire was founded by Augustus Caesar.\n* 117-138 AD: The reign of Emperor Trajan, who expanded the empire to its greatest extent.\n* 285-305 AD: The reign of Emperor Diocletian, who divided the empire into Eastern and Western halves.\n* 476 AD: The fall of the Western Roman Empire to the barbarian king Odoacer."
+      },
+      {
+        "title": "Roman Numerals",
+        "content": "Roman numerals are a system of numerals that was used in ancient Rome. They are still used today in various contexts, such as in clock faces and on monuments.\n\n### Conversion to Decimal\n\nM = 1000\nD = 500\nC = 100\nL = 50\nX = 10\nV = 5\nI = 1\n\nExample: The Roman numeral MMXXVI (2026) can be converted to decimal as follows:\n\nMMXXVI = 2000 + 20 + 6 = 2026"
+      },
+      {
+        "title": "Rome Code Example",
+        "content": "```python\n# Example Python code for a simple Roman numeral converter\ndef roman_to_decimal(roman_numeral):\n  roman_numerals = {'M': 1000, 'D': 500, 'C': 100, 'L': 50, 'X': 10, 'V': 5, 'I': 1}\n  decimal = 0\n  for char in roman_numeral:\n    decimal += roman_numerals[char]\n  return decimal\n\nprint(roman_to_decimal('MMXXVI'))  # Output: 2026\n```"
+      }
+    ],
+    "createdAt": "2026-05-05T15:14:03.256Z"
+  },
+  {
+    "_id": "1777994142929",
+    "userId": "1777922843827",
+    "question": "sequence completion, percentage calculations, algebra, and word problems such as \"People on a Train",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  {\n    \"title\": \"Sequence Completion\",\n    \"content\": \"**Arithmetic Sequence**: An arithmetic sequence is a sequence of numbers in which the difference between any two consecutive terms is constant. The common difference (d) can be found by subtracting any term from the previous term.\n\nExample:\n```\n2, 5, 8, 11, ...\n```\nFind the next term in the sequence.\n```\nd = 5 - 2 = 3\nNext term = 11 + 3 = 14\n```\n**Geometric Sequence**: A geometric sequence is a sequence of numbers in which the ratio between any two consecutive terms is constant. The common ratio (r) can be found by dividing any term by the previous term.\n\nExample:\n```\n2, 6, 18, 54, ...\n```\nFind the next term in the sequence.\n```\nr = 6 / 2 = 3\nNext term = 54 * 3 = 162\n```\n**Final Answer**: The next term in the arithmetic sequence is 14, and the next term in the geometric sequence is 162.\"\n  },\n  {\n    \"title\": \"Percentage Calculations\",\n    \"content\": \"**Finding a Percentage of a Number**: To find a percentage of a number, multiply the number by the percentage (expressed as a decimal).\n\nExample:\n```\nFind 25% of 120\n25% = 0.25\n25% of 120 = 120 * 0.25 = 30\n```\n**Finding a Number from a Percentage**: To find a number from a percentage, divide the number by the percentage (expressed as a decimal).\n\nExample:\n```\nFind the number that is 30 when increased by 25%\n30 = x * 1.25\nx = 30 / 1.25\nx = 24\n```\n**Final Answer**: 25% of 120 is 30, and the number that is 30 when increased by 25% is 24.\"\n  },\n  {\n    \"title\": \"Algebra Word Problems\",\n    \"content\": \"**People on a Train**: A train has 200 people on it, and 3/5 of them are women. How many men are on the train?\n\nLet x be the number of men on the train.\n\n```\n3/5 * 200 = number of women\nnumber of women = 120\nnumber of men = 200 - 120\nnumber of men = 80\n```\n**Final Answer**: There are 80 men on the train.\"\n  },\n  {\n    \"title\": \"Algebra Word Problems\",\n    \"content\": \"**Solving for a Variable**: To solve for a variable, isolate the variable on one side of the equation.\n\nExample:\n```\n2x + 5 = 11\n2x = 11 - 5\n2x = 6\nx = 6 / 2\nx = 3\n```\n**Final Answer**: The value of x is 3.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:15:42.929Z"
+  },
+  {
+    "_id": "1777994295367",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \"title\": \"Introduction to Array Sorting\", \"content\": \"Array sorting is a basic operation in computer science that organizes elements in an array in a specific order. There are several algorithms used for array sorting, including bubble sort, selection sort, insertion sort, merge sort, and quick sort.\" },\n  { \"title\": \"Theoretical Comparison of Sorting Algorithms\", \"content\": \"### Time Complexity\n| Algorithm | Best-Case | Average-Case | Worst-Case |\n| --- | --- | --- | --- |\n| Bubble Sort | O(n) | O(n^2) | O(n^2) |\n| Selection Sort | O(n^2) | O(n^2) | O(n^2) |\n| Insertion Sort | O(n) | O(n^2) | O(n^2) |\n| Merge Sort | O(n log n) | O(n log n) | O(n log n) |\n| Quick Sort | O(n log n) | O(n log n) | O(n^2) |\n\n### Space Complexity\n| Algorithm | Space Complexity |\n| --- | --- |\n| Bubble Sort | O(1) |\n| Selection Sort | O(1) |\n| Insertion Sort | O(1) |\n| Merge Sort | O(n) |\n| Quick Sort | O(log n) |\n\" },\n  { \"title\": \"Python Code for Sort Function (Quick Sort)\", \"content\": \"```\ndef quick_sort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quick_sort(left) + middle + quick_sort(right)\n```\nExample usage:\n```\narr = [3, 6, 8, 10, 1, 4, 7]\nprint(quick_sort(arr))  # Output: [1, 3, 4, 6, 7, 8, 10]\n```\" }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:18:15.367Z"
+  },
+  {
+    "_id": "1777994636430",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  {\n    \"title\": \"Introduction to Array Sorting\",\n    \"content\": \"Sorting an array involves rearranging its elements in a specific order, typically either in ascending or descending order. There are several algorithms used for sorting, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.\"\n  },\n  {\n    \"title\": \"Bubble Sort Algorithm\",\n    \"content\": \"### Bubble Sort Algorithm\n```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n-1):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1] :\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n```\nThis algorithm works by repeatedly swapping the adjacent elements if they are in wrong order.\"\n  },\n  {\n    \"title\": \"Quick Sort Algorithm\",\n    \"content\": \"### Quick Sort Algorithm\n```python\ndef quick_sort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quick_sort(left) + middle + quick_sort(right)\n```\nThis algorithm selects a 'pivot' element from the array and partitions the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.\"\n  },\n  {\n    \"title\": \"Python's Built-in Sort Function\",\n    \"content\": \"### Python's Built-in Sort Function\n```python\narr = [64, 34, 25, 12, 22, 11, 90]\narr.sort()\nprint(arr)\n```\nThis is a simple and efficient way to sort an array in Python, as it uses the Timsort algorithm which has a worst-case time complexity of O(n log n).\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:23:56.430Z"
+  },
+  {
+    "_id": "1777994700283",
+    "userId": "1777922843827",
+    "question": "java string",
+    "slides": [
+      {
+        "title": "Java String Basics",
+        "content": "In Java, a `String` is a sequence of characters. It's an object that represents a string value. You can create a string using a constructor or by assigning a string literal. Here's an example:\n\n```java\nString str = \"Hello, World!\";\nString str2 = new String(\"Hello, World!\");\n```"
+      },
+      {
+        "title": "Java String Operations",
+        "content": "You can perform various operations on Java strings, such as concatenation, indexing, and methods like `toUpperCase()`, `toLowerCase()`, `trim()`, etc. Here are some examples:\n\n```java\nString str = \"Hello, World!\";\n\n// Concatenation\nString str3 = str + \"!\";\n\n// Indexing\nchar c = str.charAt(0);\n\n// Methods\nString str4 = str.toUpperCase();\nString str5 = str.toLowerCase();\nstr = str.trim();\n```"
+      },
+      {
+        "title": "Java String Immutability",
+        "content": "Java strings are immutable, meaning that once created, their contents cannot be modified. Any changes to a string will result in a new string being created. This is why some methods return a new string, rather than modifying the original string. For example:\n\n```java\nString str = \"Hello\";\nString str2 = str + \" World\";\nSystem.out.println(str); // Outputs: Hello\nSystem.out.println(str2); // Outputs: Hello World\n```"
+      }
+    ],
+    "createdAt": "2026-05-05T15:25:00.283Z"
+  },
+  {
+    "_id": "1777994797941",
+    "userId": "1777922843827",
+    "question": "explain about india",
+    "slides": [
+      {
+        "title": "Geography and Climate",
+        "content": "India is a country located in South Asia. It is the seventh-largest country by geographical area and the second-most populous country in the world. India is bounded by the Himalayan mountain range to the north, the Arabian Sea to the west, and the Bay of Bengal to the east. The climate in India varies greatly from region to region, with tropical and subtropical conditions in the south and temperate conditions in the north. **Temperature ranges:** -20°C to 50°C (−4°F to 122°F)"
+      },
+      {
+        "title": "History and Culture",
+        "content": "India has a rich and diverse history that dates back to the Indus Valley Civilization, which existed around 4000 BCE. The ancient Indian civilization was influenced by various cultures, including the Vedic period, the Mauryan Empire, and the Mughal Empire. Today, India is a secular country with a mix of Hinduism, Islam, Sikhism, Buddhism, and Jainism. **Indian Languages:** Hindi, English, Bengali, Telugu, Marathi, Tamil, Gujarati, Punjabi, and Urdu."
+      },
+      {
+        "title": "Economy and Infrastructure",
+        "content": "India has a growing economy, with a GDP of over $3 trillion. The country is a major producer of IT services, pharmaceuticals, textiles, and agriculture. India has a well-developed transportation network, including airports, seaports, and railways. The country's infrastructure includes a number of major cities, including Delhi, Mumbai, Kolkata, and Chennai. **Indian Currencies:** Indian Rupee (INR)"
+      }
+    ],
+    "createdAt": "2026-05-05T15:26:37.941Z"
+  },
+  {
+    "_id": "1777995074535",
+    "userId": "1777922843827",
+    "question": "Explain Newton's laws with examples",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  {\n    \"title\": \"Newton's First Law: Law of Inertia\",\n    \"content\": \"An object at rest will remain at rest, and an object in motion will continue to move with a constant velocity, unless acted upon by an external force. This law is often referred to as the law of inertia. **Example:** A car traveling at a constant speed on a straight road will continue to move at that speed unless the brakes are applied or another external force is applied to the car.\"\n  },\n  {\n    \"title\": \"Newton's Second Law: Force and Acceleration\",\n    \"content\": \"**F = ma**\\nThis law states that the force applied to an object is equal to the mass of the object multiplied by its acceleration. **Example:**\\n```python\n# Newton's second law example\nmass = 10 kg  # mass of the object\nforce = 20 N  # force applied to the object\nacceleration = force / mass  # acceleration of the object\nprint(acceleration)  # this will output 2 m/s^2\n```\nIn this example, if a force of 20 N is applied to an object with a mass of 10 kg, the acceleration of the object will be 2 m/s^2.\"\n  },\n  {\n    \"title\": \"Newton's Third Law: Action and Reaction\",\n    \"content\": \"For every action, there is an equal and opposite reaction. This law means that when an object exerts a force on another object, the second object exerts an equal and opposite force on the first object. **Example:**\\nA person pushing against a wall will experience the same force in the opposite direction as they push against the wall. **Example Code:**\\n```python\n# Newton's third law example\naction_force = 100 N  # force exerted by the person on the wall\nreaction_force = action_force  # force exerted by the wall on the person\nprint(reaction_force)  # this will output 100 N\n```\nIn this example, the force exerted by the person on the wall is equal to the force exerted by the wall on the person.\"\n  },\n  {\n    \"title\": \"Conclusion\",\n    \"content\": \"Newton's laws provide a fundamental understanding of how objects move and respond to forces. Understanding these laws is crucial in various fields such as physics, engineering, and mechanics.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:31:14.535Z"
+  },
+  {
+    "_id": "1777995093078",
+    "userId": "1777922843827",
+    "question": "expalin about rome",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  {\n    \"title\": \"Introduction to Ancient Rome\",\n    \"content\": \"Ancient Rome was a civilization that thrived in the region of Central Italy, specifically in the area surrounding the city of Rome, from 8th century BC to 5th century AD. It was a major power in the Mediterranean world and is considered one of the greatest civilizations of the ancient world.\"\n  },\n  {\n    \"title\": \"History of Ancient Rome\",\n    \"content\": \"The history of Ancient Rome can be divided into several periods:\n    * **Roman Kingdom (753 BC - 509 BC)**: This was the period when the city of Rome was ruled by kings.\n    * **Roman Republic (509 BC - 27 BC)**: This was a period of governance by the Roman Senate and the Roman Assemblies.\n    * **Roman Empire (27 BC - 476 AD)**: This was the period when the Roman state was ruled by emperors.\"\n  },\n  {\n    \"title\": \"Government and Politics\",\n    \"content\": \"The Roman government was divided into the following branches:\n    * **Roman Senate**: A group of advisors who helped the Roman leaders make decisions.\n    * **Roman Assemblies**: A group of citizens who elected the Roman leaders and passed laws.\n    * **Magistrates**: Elected officials who carried out the laws and governed the city.\n    * **Emperor**: The supreme leader of the Roman state.\"\n  },\n  {\n    \"title\": \"Economy and Culture\",\n    \"content\": \"The Roman economy was based on trade and commerce. They had a complex system of law and justice, and a rich cultural heritage. The Romans made significant contributions to art, architecture, literature, and engineering. They also developed a system of roads and aqueducts that connected the city to the rest of the empire.\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:31:33.078Z"
+  },
+  {
+    "_id": "1777995115321",
+    "userId": "1777922843827",
+    "question": "explain about india",
+    "slides": [
+      {
+        "title": "Geography of India",
+        "content": "India is a country located in South Asia, bordered by the Indian Ocean to the south, the Arabian Sea to the west, and the Bay of Bengal to the east. It shares borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. India has a diverse geography, with the Himalayan mountain range to the north, the Thar Desert in the west, and the Ganges-Brahmaputra delta in the east."
+      },
+      {
+        "title": "Climate and Weather",
+        "content": "India has a varied climate, ranging from tropical in the south to temperate in the north. The country experiences four main seasons: summer, monsoon, autumn, and winter. The summer months (April to June) are hot and dry, while the monsoon season (June to September) brings heavy rainfall to most parts of the country. The autumn months (October to November) are mild and pleasant, while the winter months (December to February) are cool and dry."
+      },
+      {
+        "title": "Economy and Culture",
+        "content": "India is the world's fifth-largest economy, with a diverse range of industries, including technology, manufacturing, and services. The country is home to a rich cultural heritage, with over 22 officially recognized languages and a diverse range of traditional arts, music, and dance. Hinduism is the majority religion, followed by Islam, Christianity, Sikhism, and Buddhism."
+      }
+    ],
+    "createdAt": "2026-05-05T15:31:55.321Z"
+  },
+  {
+    "_id": "1777995142965",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \n    \"title\": \"Introduction to Array Sorting\",\n    \"content\": \"Array sorting is a fundamental concept in computer science and programming. It involves rearranging the elements of an array in a specific order, such as ascending or descending order. There are several algorithms to sort arrays, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. Each algorithm has its own strengths and weaknesses.\"\n  },\n  { \n    \"title\": \"Python Implementation of Bubble Sort\",\n    \"content\": `\n### Bubble Sort Algorithm\n\nBubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.\n\n### Python Code\n\\`\\`\\`\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n-1):\n        for j in range(n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\\`\\`\\`\n### Example Usage\n\\`\\`\\`\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))  # Output: [11, 12, 22, 25, 34, 64, 90]\n\\`\\`\\`\n\"\n  },\n  { \n    \"title\": \"Python Implementation of Quick Sort\",\n    \"content\": `\n### Quick Sort Algorithm\n\nQuick sort is a divide-and-conquer algorithm that works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then recursively sorted.\n\n### Python Code\n\\`\\`\\`\ndef quick_sort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quick_sort(left) + middle + quick_sort(right)\n\\`\\`\\`\n### Example Usage\n\\`\\`\\`\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(quick_sort(arr))  # Output: [11, 12, 22, 25, 34, 64, 90]\n\\`\\`\\`\n\"\n  }\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:32:22.965Z"
+  },
+  {
+    "_id": "1777995211602",
+    "userId": "1777922843827",
+    "question": "java string program",
+    "slides": [
+      {
+        "title": "Answer",
+        "content": "[\n  { \n    \"title\": \"Java String Formatting\",\n    \"content\": \"```java\npublic class StringFormatting {\n  public static void main(String[] args) {\n    // Using printf() to format strings\n    String name = \"John Doe\";\n    int age = 30;\n    double balance = 1000.25;\n\n    System.out.printf(\"Name: %s, Age: %d, Balance: $%.2f%n\", name, age, balance);\n\n    // Using String.format() to format strings\n    String formattedString = String.format(\"Hello, %s! Your balance is $%.2f.\", name, balance);\n    System.out.println(formattedString);\n  }\n}\n```\n\nOutput:\n```\nName: John Doe, Age: 30, Balance: $1000.25\nHello, John Doe! Your balance is $1000.25.\n```\n  \"\n  },\n  { \n    \"title\": \"Java String Operations\",\n    \"content\": \"```java\npublic class StringOperations {\n  public static void main(String[] args) {\n    String str = \"Hello, World!\";\n\n    // Concatenating strings\n    String concatenatedStr = str + \" this is a test\";\n    System.out.println(concatenatedStr);\n\n    // Using StringBuilder to concatenate strings efficiently\n    StringBuilder sb = new StringBuilder();\n    sb.append(str);\n    sb.append(\" this is a test\");\n    System.out.println(sb.toString());\n\n    // Finding the length of a string\n    System.out.println(\"Length of string: \" + str.length());\n\n    // Checking if a string starts with a certain substring\n    System.out.println(\"Does string start with 'Hello'?: \" + str.startsWith(\"Hello\"));\n\n    // Checking if a string ends with a certain substring\n    System.out.println(\"Does string end with 'World'?: \" + str.endsWith(\"World\"));\n  }\n}\n```\n\nOutput:\n```\nHello, World! this is a test\nHello, World! this is a test\nLength of string: 13\nDoes string start with 'Hello'?: true\nDoes string end with 'World'?: true\n```\n  \"\n  },\n  { \n    \"title\": \"Java String Split and Join\",\n    \"content\": \"```java\npublic class StringSplitJoin {\n  public static void main(String[] args) {\n    String str = \"apple,banana,cherry,grape\";\n\n    // Splitting a string into an array of substrings\n    String[] substrings = str.split(\",\");\n    for (String sub : substrings) {\n      System.out.println(sub);\n    }\n\n    // Joining an array of substrings into a single string\n    String joinedStr = String.join(\",\", \"apple\", \"banana\", \"cherry\");\n    System.out.println(joinedStr);\n  }\n}\n```\n\nOutput:\n```\napple\nbanana\ncherry\ngrape\napple,banana,cherry\n```\n  \"\n]"
+      }
+    ],
+    "createdAt": "2026-05-05T15:33:31.602Z"
+  },
+  {
+    "_id": "1778065888946",
+    "userId": "1777922843827",
+    "question": "Generate Python code to sort an array",
+    "slides": [
+      {
+        "title": "Introduction to Array Sorting",
+        "content": "Sorting is a fundamental operation in computer science and programming. It involves rearranging the elements of an array in a specific order, such as ascending or descending order. There are several algorithms used for sorting, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort."
+      },
+      {
+        "title": "Python Code for Bubble Sort",
+        "content": "```python\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n-1):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1] :\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr\n\n# Example usage:\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n```"
+      },
+      {
+        "title": "Python Code for Quick Sort",
+        "content": "```python\ndef quick_sort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quick_sort(left) + middle + quick_sort(right)\n\n# Example usage:\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(quick_sort(arr))\n```"
+      }
+    ],
+    "createdAt": "2026-05-06T11:11:28.946Z"
+  }
+]
